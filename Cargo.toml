@@ -1,0 +1,7 @@
+[package]
+name = "rust-portaudio-delay"
+version = "0.1.0"
+authors = ["Daniel Friedman <dfriedman58@gmail.com>"]
+
+[dependencies]
+portaudio = "0.7.0"
